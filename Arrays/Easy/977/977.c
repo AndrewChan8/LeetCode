@@ -7,11 +7,9 @@ int* sortedSquares(int* nums, int numsSize, int* returnSize){
     int left = 0, right = numsSize - 1, i = right;
     while(left <= right){
         if(abs(nums[left]) >= abs(nums[right])){
-            result[i--] = nums[left] * nums[left];
-            left++;
+            result[i--] = nums[left] * nums[left++];
         }else{
-            result[i--] = nums[right] * nums[right];
-            right--;
+            result[i--] = nums[right] * nums[right++];
         }
     }
     return result;
