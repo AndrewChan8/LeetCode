@@ -41,10 +41,10 @@ Click on a topic to get directed to that directory:
 #### Linked List - Hard
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
-# Easy Math Problems
+#### Easy Math Problems
 [342 - Power of Four](Math/Easy/342)  
 
-# Medium Math Problems
+#### Medium Math Problems
 [7 - Reverse Integer](Math/Medium/7)  
 
 #### Matrix - Easy
