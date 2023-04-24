@@ -1,2 +1,11 @@
 # Easy Array Problems
 [1 - Two Sum](1)
+[26 - Remove Duplicates from Sorted Array](26)
+[119 - Pascal's Triangle II](119)
+[121 - Best Time to Buy and Sell Stock](121)
+[495 - Teemo Attacking](495)
+[704 - Binary Search](704)
+[977 - Squares of a Sorted Array](977)
+[1046 - Last Stone Weight](1046)
+[1464 - Maximum Product of two Elements in an Array](1464)
+[1480 - Running Sum of 1D Array](1480)
