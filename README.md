@@ -42,6 +42,7 @@ Click on a topic to get directed to that directory:
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
 #### Easy Math Problems
+[9 - Palindrome Number](Math/Easy/9)  
 [342 - Power of Four](Math/Easy/342)  
 
 #### Medium Math Problems
@@ -67,6 +68,7 @@ Click on a topic to get directed to that directory:
 [1 - Two Sum](Arrays/Easy/1)  
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
 [7 - Reverse Integer](Math/Medium/7)  
+[9 - Palindrome Number](Math/Easy/9)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [48 - Rotate Image](Matrices/Medium/48)  
