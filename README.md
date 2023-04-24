@@ -9,7 +9,8 @@ Click on a topic to get directed to that directory:
 [Matrices](Matrices)  
 [Trees](Trees)  
 
-### All Problems covered:
+### All Problems covered by Topic/Difficulty:
+#### Array - Easy
 [1 - Two Sum](Arrays/Easy/1)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
@@ -21,27 +22,35 @@ Click on a topic to get directed to that directory:
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 
+#### Array - Medium
 [49 - Group Anagrams](Arrays/Medium/49)  
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 
+#### Linked List - Easy
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 
-[23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
-
+#### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
 
+#### Linked List - Hard
+[23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
+
+#### Matrix - Easy
 [867 - Transpose Matrix](Matrices/Easy/867)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
 
+#### Matrix - Medium
 [48 - Rotate Image](Matrices/Medium/48)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
 
+#### Trees - Easy
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
 
+#### Trees - Medium
 [1302 - Deepest Leaves Sum](Trees/Medium/1302)  
 [1305 - All Elements in Two Binary Search Trees](Trees/Medium/1305)  
