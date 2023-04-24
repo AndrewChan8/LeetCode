@@ -6,7 +6,7 @@ Here you will find multiple topics and within them are the different difficultie
 Click on a topic to get directed to that directory:  
 [Arrays](Arrays)  
 [Linked Lists](Linked_Lists)  
-[Math](Math)
+[Math](Math)  
 [Matrices](Matrices)  
 [Trees](Trees)  
 
@@ -45,7 +45,7 @@ Click on a topic to get directed to that directory:
 [342 - Power of Four](Math/Easy/342)  
 
 # Medium Math Problems
-[7 - Reverse Integer](Math/Medium/7)
+[7 - Reverse Integer](Math/Medium/7)  
 
 #### Matrix - Easy
 [867 - Transpose Matrix](Matrices/Easy/867)  
@@ -66,7 +66,7 @@ Click on a topic to get directed to that directory:
 ## All Problems in Order:
 [1 - Two Sum](Arrays/Easy/1)  
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
-[7 - Reverse Integer](Math/Medium/7)
+[7 - Reverse Integer](Math/Medium/7)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [48 - Rotate Image](Matrices/Medium/48)  
