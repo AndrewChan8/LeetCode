@@ -3,6 +3,7 @@
 [26 - Remove Duplicates from Sorted Array](26)  
 [119 - Pascal's Triangle II](119)  
 [121 - Best Time to Buy and Sell Stock](121)  
+[268 - Missing Number](268)  
 [495 - Teemo Attacking](495)  
 [704 - Binary Search](704)  
 [977 - Squares of a Sorted Array](977)  
