@@ -6,6 +6,7 @@ Here you will find multiple topics and within them are the different difficultie
 Click on a topic to get directed to that directory:  
 [Arrays](Arrays)  
 [Linked Lists](Linked_Lists)  
+[Math](Math)
 [Matrices](Matrices)  
 [Trees](Trees)  
 
@@ -40,6 +41,9 @@ Click on a topic to get directed to that directory:
 #### Linked List - Hard
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
+# Easy Math Problems
+[342 - Power of Four](Math/Easy/342)  
+
 #### Matrix - Easy
 [867 - Transpose Matrix](Matrices/Easy/867)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
@@ -70,7 +74,8 @@ Click on a topic to get directed to that directory:
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
-[268 - Missing Number](268)  
+[268 - Missing Number](Array/Easy/268)  
+[342 - Power of Four](Math/Easy/342/)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
 [704 - Binary Search](Arrays/Easy/704)  
