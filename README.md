@@ -9,7 +9,7 @@ Click on a topic to get directed to that directory:
 [Matrices](Matrices)  
 [Trees](Trees)  
 
-### All Problems covered by Topic/Difficulty:
+## All Problems covered by Topic/Difficulty:
 #### Array - Easy
 [1 - Two Sum](Arrays/Easy/1)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
@@ -54,3 +54,32 @@ Click on a topic to get directed to that directory:
 #### Trees - Medium
 [1302 - Deepest Leaves Sum](Trees/Medium/1302)  
 [1305 - All Elements in Two Binary Search Trees](Trees/Medium/1305)  
+
+## All Problems in Order:
+[1 - Two Sum](Arrays/Easy/1)  
+[2 - Add Two Numbers](Linked_Lists/Medium/2)  
+[23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
+[26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
+[48 - Rotate Image](Matrices/Medium/48)  
+[49 - Group Anagrams](Arrays/Medium/49)  
+[83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
+[110 - Balanced Binary Tree](Trees/Easy/110)  
+[119 - Pascal's Triangle II](Arrays/Easy/119)  
+[120 - Triangle](Arrays/Medium/120)  
+[121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
+[167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
+[206 - Reverse Linked List](Linked_Lists/Easy/206)  
+[495 - Teemo Attacking](Arrays/Easy/495)  
+[653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
+[704 - Binary Search](Arrays/Easy/704)  
+[707 - Design Linked List](Linked_Lists/Medium/707)  
+[867 - Transpose Matrix](Matrices/Easy/867)  
+[977 - Squares of a Sorted Array](Arrays/Easy/977)  
+[1046 - Last Stone Weight](Arrays/Easy/1046)  
+[1302 - Deepest Leaves Sum](Trees/Medium/1302)  
+[1305 - All Elements in Two Binary Search Trees](Trees/Medium/1305)  
+[1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
+[1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
+[1672 - Richest Customer Wealth](Matrices/Easy/1672)  
+[2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
+[2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
