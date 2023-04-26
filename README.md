@@ -16,6 +16,7 @@ Click on a topic to get directed to that directory:
 #### Array - Easy
 [1 - Two Sum](Arrays/Easy/1)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
+[35 - Search Insert Position](Arrays/Easy/35)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [268 - Missing Number](268)  
@@ -28,6 +29,7 @@ Click on a topic to get directed to that directory:
 
 #### Array - Medium
 [49 - Group Anagrams](Arrays/Medium/49)  
+[53 - Maximum Subarray](Arrays/Medium/53)  
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
@@ -44,12 +46,13 @@ Click on a topic to get directed to that directory:
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
 #### Easy Math Problems
-[9 - Palindrome Number](9)  
-[70 - Climbing Stairs](70)  
-[258 - Add Digits](258)  
-[342 - Power of Four](342)  
-[509 - Fibonacci Number](509)  
-[1137 - N-th Tribonacci Number](1137)  
+[9 - Palindrome Number](Math/Easy/9)  
+[70 - Climbing Stairs](Math/Easy/70)  
+[258 - Add Digits](Math/Easy/258)  
+[342 - Power of Four](Math/Easy/342)  
+[509 - Fibonacci Number](Math/Easy/509)  
+[1137 - N-th Tribonacci Number](Math/Easy/1137)  
+[2235 - Add Two Integers](Math/Easy/2235)  
 
 #### Medium Math Problems
 [7 - Reverse Integer](Math/Medium/7)  
@@ -77,8 +80,10 @@ Click on a topic to get directed to that directory:
 [9 - Palindrome Number](Math/Easy/9)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
+[35 - Search Insert Position](Arrays/Easy/35)  
 [48 - Rotate Image](Matrices/Medium/48)  
 [49 - Group Anagrams](Arrays/Medium/49)  
+[53 - Maximum Subarray](Arrays/Medium/53)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [110 - Balanced Binary Tree](Trees/Easy/110)  
@@ -105,4 +110,5 @@ Click on a topic to get directed to that directory:
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
+[2235 - Add Two Integers](Math/Easy/2235)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
