@@ -1,6 +1,8 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being JS, Python, C/C++. 
 
+# Solved Problems: 35
+
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
 Click on a topic to get directed to that directory:  
@@ -42,9 +44,12 @@ Click on a topic to get directed to that directory:
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
 #### Easy Math Problems
-[9 - Palindrome Number](Math/Easy/9)  
-[258 - Add Digits](Math/Easy/258)  
-[342 - Power of Four](Math/Easy/342)  
+[9 - Palindrome Number](9)  
+[70 - Climbing Stairs](70)  
+[258 - Add Digits](258)  
+[342 - Power of Four](342)  
+[509 - Fibonacci Number](509)  
+[1137 - N-th Tribonacci Number](1137)  
 
 #### Medium Math Problems
 [7 - Reverse Integer](Math/Medium/7)  
@@ -74,6 +79,7 @@ Click on a topic to get directed to that directory:
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [48 - Rotate Image](Matrices/Medium/48)  
 [49 - Group Anagrams](Arrays/Medium/49)  
+[70 - Climbing Stairs](Math/Easy/70)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
@@ -85,12 +91,14 @@ Click on a topic to get directed to that directory:
 [268 - Missing Number](Array/Easy/268)  
 [342 - Power of Four](Math/Easy/342/)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
+[509 - Fibonacci Number](Math/Easy/509)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
 [704 - Binary Search](Arrays/Easy/704)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
 [867 - Transpose Matrix](Matrices/Easy/867)  
 [977 - Squares of a Sorted Array](Arrays/Easy/977)  
 [1046 - Last Stone Weight](Arrays/Easy/1046)  
+[1137 - N-th Tribonacci Number](Math/Easy/1137)  
 [1302 - Deepest Leaves Sum](Trees/Medium/1302)  
 [1305 - All Elements in Two Binary Search Trees](Trees/Medium/1305)  
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
