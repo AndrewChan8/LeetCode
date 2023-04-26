@@ -1,6 +1,7 @@
 # Easy Array Problems
 [1 - Two Sum](1)  
 [26 - Remove Duplicates from Sorted Array](26)  
+[35 - Search Insert Position](35)  
 [119 - Pascal's Triangle II](119)  
 [121 - Best Time to Buy and Sell Stock](121)  
 [268 - Missing Number](268)  
