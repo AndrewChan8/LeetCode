@@ -43,6 +43,7 @@ Click on a topic to get directed to that directory:
 
 #### Easy Math Problems
 [9 - Palindrome Number](Math/Easy/9)  
+[258 - Add Digits](Math/Easy/258)  
 [342 - Power of Four](Math/Easy/342)  
 
 #### Medium Math Problems
@@ -80,6 +81,7 @@ Click on a topic to get directed to that directory:
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
+[258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
 [342 - Power of Four](Math/Easy/342/)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
