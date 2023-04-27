@@ -56,6 +56,7 @@ Click on a topic to get directed to that directory:
 
 #### Medium Math Problems
 [7 - Reverse Integer](Math/Medium/7)  
+[319 - Bulb Switcher](Math/Medium/319)  
 
 #### Matrix - Easy
 [867 - Transpose Matrix](Matrices/Easy/867)  
@@ -94,6 +95,7 @@ Click on a topic to get directed to that directory:
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
+[319 - Bulb Switcher](Math/Medium/319)  
 [342 - Power of Four](Math/Easy/342/)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [509 - Fibonacci Number](Math/Easy/509)  
