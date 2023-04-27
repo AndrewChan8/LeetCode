@@ -40,6 +40,7 @@ Click on a topic to get directed to that directory:
 
 #### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
+[445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
 
 #### Linked List - Hard
@@ -98,6 +99,7 @@ Click on a topic to get directed to that directory:
 [268 - Missing Number](Array/Easy/268)  
 [319 - Bulb Switcher](Math/Medium/319)  
 [342 - Power of Four](Math/Easy/342/)  
+[445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [509 - Fibonacci Number](Math/Easy/509)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
