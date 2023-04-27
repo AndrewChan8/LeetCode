@@ -33,6 +33,7 @@ Click on a topic to get directed to that directory:
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [198 - House Robber](Arrays/Medium/198)  
+[213 - House Robber II](Arrays/Medium/213)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 
 #### Linked List - Easy
@@ -98,6 +99,7 @@ Click on a topic to get directed to that directory:
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [198 - House Robber](Arrays/Medium/198)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
+[213 - House Robber II](Arrays/Medium/213)  
 [258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
 [319 - Bulb Switcher](Math/Medium/319)  
