@@ -32,6 +32,7 @@ Click on a topic to get directed to that directory:
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
+[198 - House Robber](Arrays/Medium/198)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 
 #### Linked List - Easy
@@ -95,6 +96,7 @@ Click on a topic to get directed to that directory:
 [120 - Triangle](Arrays/Medium/120)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
+[198 - House Robber](Arrays/Medium/198)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
