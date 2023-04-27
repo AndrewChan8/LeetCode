@@ -19,7 +19,7 @@ Click on a topic to get directed to that directory:
 [35 - Search Insert Position](Arrays/Easy/35)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
-[268 - Missing Number](268)  
+[268 - Missing Number](Arrays/Easy/268)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [704 - Binary Search](Arrays/Easy/704)  
 [977 - Squares of a Sorted Array](Arrays/Easy/977)  
