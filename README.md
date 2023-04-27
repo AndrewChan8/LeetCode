@@ -57,6 +57,7 @@ Click on a topic to get directed to that directory:
 #### Medium Math Problems
 [7 - Reverse Integer](Math/Medium/7)  
 [319 - Bulb Switcher](Math/Medium/319)  
+[2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 
 #### Matrix - Easy
 [867 - Transpose Matrix](Matrices/Easy/867)  
@@ -111,6 +112,7 @@ Click on a topic to get directed to that directory:
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
+[2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 [2235 - Add Two Integers](Math/Easy/2235)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
