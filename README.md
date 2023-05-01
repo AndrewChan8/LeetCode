@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 50
+# Solved Problems: 52
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -11,6 +11,7 @@ Click on a topic to get directed to that directory:
 [Math](Math)  
 [Matrices](Matrices)  
 [Misc](Misc)  
+[Strings](Strings)  
 [Trees](Trees)  
 
 ## All Problems covered by Topic/Difficulty:
@@ -80,6 +81,9 @@ Click on a topic to get directed to that directory:
 #### Misc - Easy
 [278 - First Bad Version](Misc/Easy/278)  
 
+#### Strings - Easy
+[344 - Reverse String](Strings/Easy/344)  
+
 #### Trees - Easy
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
@@ -119,6 +123,7 @@ Click on a topic to get directed to that directory:
 [319 - Bulb Switcher](Math/Medium/319)  
 [337 - House Robber III](Trees/Medium/337)  
 [342 - Power of Four](Math/Easy/342/)  
+[344 - Reverse String](Strings/Easy/344)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [504 - Base 7](Math/Easy/504)  
