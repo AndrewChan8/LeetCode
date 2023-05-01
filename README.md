@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 48
+# Solved Problems: 49
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -10,6 +10,7 @@ Click on a topic to get directed to that directory:
 [Linked Lists](Linked_Lists)  
 [Math](Math)  
 [Matrices](Matrices)  
+[Misc](Misc)  
 [Trees](Trees)  
 
 ## All Problems covered by Topic/Difficulty:
@@ -51,7 +52,7 @@ Click on a topic to get directed to that directory:
 #### Linked List - Hard
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 
-#### Easy Math Problems
+#### Math - Easy
 [9 - Palindrome Number](Math/Easy/9)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [258 - Add Digits](Math/Easy/258)  
@@ -61,7 +62,7 @@ Click on a topic to get directed to that directory:
 [1137 - N-th Tribonacci Number](Math/Easy/1137)  
 [2235 - Add Two Integers](Math/Easy/2235)  
 
-#### Medium Math Problems
+#### Math - Medium
 [7 - Reverse Integer](Math/Medium/7)  
 [319 - Bulb Switcher](Math/Medium/319)  
 [2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
@@ -73,6 +74,9 @@ Click on a topic to get directed to that directory:
 #### Matrix - Medium
 [48 - Rotate Image](Matrices/Medium/48)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
+
+#### Misc - Easy
+[278 - First Bad Version](Misc/Easy/278)  
 
 #### Trees - Easy
 [110 - Balanced Binary Tree](Trees/Easy/110)  
@@ -107,6 +111,7 @@ Click on a topic to get directed to that directory:
 [213 - House Robber II](Arrays/Medium/213)  
 [258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
+[278 - First Bad Version](Misc/Easy/278)  
 [319 - Bulb Switcher](Math/Medium/319)  
 [337 - House Robber III](Trees/Medium/337)  
 [342 - Power of Four](Math/Easy/342/)  
