@@ -11,3 +11,5 @@
 [1046 - Last Stone Weight](1046)  
 [1464 - Maximum Product of two Elements in an Array](1464)  
 [1480 - Running Sum of 1D Array](1480)  
+[1491 - Average Salary Excluding the Minimum and Maximum Salary](1491)  
+[2347 - Best Poker Hand](2347)  

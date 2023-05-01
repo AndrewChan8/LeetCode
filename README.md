@@ -26,6 +26,8 @@ Click on a topic to get directed to that directory:
 [1046 - Last Stone Weight](Arrays/Easy/1046)  
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
+[1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
+[2347 - Best Poker Hand](Arrays/Easy/2347)  
 
 #### Array - Medium
 [49 - Group Anagrams](Arrays/Medium/49)  
@@ -120,7 +122,9 @@ Click on a topic to get directed to that directory:
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
+[1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
 [2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 [2235 - Add Two Integers](Math/Easy/2235)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
+[2347 - Best Poker Hand](Arrays/Easy/2347)  
