@@ -30,6 +30,7 @@ Click on a topic to get directed to that directory:
 [2347 - Best Poker Hand](Arrays/Easy/2347)  
 
 #### Array - Medium
+[15 - 3Sum](Arrays/Medium/15)  
 [49 - Group Anagrams](Arrays/Medium/49)  
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [120 - Triangle](Arrays/Medium/120)  
@@ -87,6 +88,7 @@ Click on a topic to get directed to that directory:
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
 [7 - Reverse Integer](Math/Medium/7)  
 [9 - Palindrome Number](Math/Easy/9)  
+[15 - 3Sum](Arrays/Medium/15)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [35 - Search Insert Position](Arrays/Easy/35)  
