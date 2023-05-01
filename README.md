@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 49
+# Solved Problems: 50
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -36,6 +36,7 @@ Click on a topic to get directed to that directory:
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
+[189 - Rotate Array](Arrays/Medium/189)  
 [198 - House Robber](Arrays/Medium/198)  
 [213 - House Robber II](Arrays/Medium/213)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
@@ -106,6 +107,7 @@ Click on a topic to get directed to that directory:
 [120 - Triangle](Arrays/Medium/120)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
+[189 - Rotate Array](Arrays/Medium/189)  
 [198 - House Robber](Arrays/Medium/198)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [213 - House Robber II](Arrays/Medium/213)  
