@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 46
+# Solved Problems: 47
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -55,6 +55,7 @@ Click on a topic to get directed to that directory:
 [70 - Climbing Stairs](Math/Easy/70)  
 [258 - Add Digits](Math/Easy/258)  
 [342 - Power of Four](Math/Easy/342)  
+[504 - Base 7](Math/Easy/504)  
 [509 - Fibonacci Number](Math/Easy/509)  
 [1137 - N-th Tribonacci Number](Math/Easy/1137)  
 [2235 - Add Two Integers](Math/Easy/2235)  
@@ -109,6 +110,7 @@ Click on a topic to get directed to that directory:
 [342 - Power of Four](Math/Easy/342/)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
+[504 - Base 7](Math/Easy/504)  
 [509 - Fibonacci Number](Math/Easy/509)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
 [704 - Binary Search](Arrays/Easy/704)  
