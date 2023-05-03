@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 54
+# Solved Problems: 55
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -67,6 +67,7 @@ Click on a topic to get directed to that directory:
 [504 - Base 7](Math/Easy/504)  
 [509 - Fibonacci Number](Math/Easy/509)  
 [1137 - N-th Tribonacci Number](Math/Easy/1137)  
+[1822 - Sign of the Product of an Array](Math/Easy/1822)  
 [2235 - Add Two Integers](Math/Easy/2235)  
 
 #### Math - Medium
@@ -144,8 +145,9 @@ Click on a topic to get directed to that directory:
 [1305 - All Elements in Two Binary Search Trees](Trees/Medium/1305)  
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
-[1672 - Richest Customer Wealth](Matrices/Easy/1672)  
 [1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
+[1672 - Richest Customer Wealth](Matrices/Easy/1672)  
+[1822 - Sign of the Product of an Array](Math/Easy/1822)  
 [2215 - Find the Difference of Two Arrays](Arrays/Easy/2215)  
 [2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  

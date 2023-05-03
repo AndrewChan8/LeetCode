@@ -6,4 +6,5 @@
 [504 - Base 7](504)  
 [509 - Fibonacci Number](509)  
 [1137 - N-th Tribonacci Number](1137)  
+[1822 - Sign of the Product of an Array](1822)  
 [2235 - Add Two Integers](2235)  
