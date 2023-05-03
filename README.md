@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 52
+# Solved Problems: 54
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -30,6 +30,7 @@ Click on a topic to get directed to that directory:
 [1464 - Maximum Product of two Elements in an Array](Arrays/Easy/1464)  
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
+[2215 - Find the Difference of Two Arrays](Arrays/Easy/2215)  
 [2347 - Best Poker Hand](Arrays/Easy/2347)  
 
 #### Array - Medium
@@ -42,6 +43,9 @@ Click on a topic to get directed to that directory:
 [198 - House Robber](Arrays/Medium/198)  
 [213 - House Robber II](Arrays/Medium/213)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
+
+#### Array - Hard
+[4 - Median of Two Sorted Arrays](Arrays/Hard/4)  
 
 #### Linked List - Easy
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
@@ -96,6 +100,7 @@ Click on a topic to get directed to that directory:
 ## All Problems in Order:
 [1 - Two Sum](Arrays/Easy/1)  
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
+[4 - Median of Two Sorted Arrays](Arrays/Hard/4)  
 [7 - Reverse Integer](Math/Medium/7)  
 [9 - Palindrome Number](Math/Easy/9)  
 [15 - 3Sum](Arrays/Medium/15)  
@@ -141,6 +146,7 @@ Click on a topic to get directed to that directory:
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
 [1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
+[2215 - Find the Difference of Two Arrays](Arrays/Easy/2215)  
 [2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 [2225 - Find Players With Zero or One Losses](Arrays/Medium/2225)  
 [2235 - Add Two Integers](Math/Easy/2235)  
