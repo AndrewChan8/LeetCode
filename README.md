@@ -89,6 +89,7 @@ Click on a topic to get directed to that directory:
 
 #### Strings - Easy
 [344 - Reverse String](Strings/Easy/344)  
+[1662 - Check If Two String Arrays are Equivalent](Strings/Easy/1662)  
 
 #### Trees - Easy
 [110 - Balanced Binary Tree](Trees/Easy/110)  
@@ -148,6 +149,7 @@ Click on a topic to get directed to that directory:
 [1480 - Running Sum of 1D Array](Arrays/Easy/1480)  
 [1491 - Average Salary Excluding the Minimum and Maximum Salary](Arrays/Easy/1491)  
 [1572 - Matrix Diagonal Sum](Matrices/Easy/1572)  
+[1662 - Check If Two String Arrays are Equivalent](Strings/Easy/1662)  
 [1672 - Richest Customer Wealth](Matrices/Easy/1672)  
 [1822 - Sign of the Product of an Array](Math/Easy/1822)  
 [2215 - Find the Difference of Two Arrays](Arrays/Easy/2215)  
