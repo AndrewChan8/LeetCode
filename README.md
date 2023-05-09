@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 57
+# Solved Problems: 58
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -91,6 +91,9 @@ Click on a topic to get directed to that directory:
 [344 - Reverse String](Strings/Easy/344)  
 [1662 - Check If Two String Arrays are Equivalent](Strings/Easy/1662)  
 
+#### Strings - Medium
+[451 - Sort Characters By Frequency](Strings/Medium/451)  
+
 #### Trees - Easy
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
@@ -133,6 +136,7 @@ Click on a topic to get directed to that directory:
 [342 - Power of Four](Math/Easy/342/)  
 [344 - Reverse String](Strings/Easy/344)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
+[451 - Sort Characters By Frequency](Strings/Medium/451)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
 [504 - Base 7](Math/Easy/504)  
 [509 - Fibonacci Number](Math/Easy/509)  
