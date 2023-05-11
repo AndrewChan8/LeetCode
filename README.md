@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 58
+# Solved Problems: 59
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -88,6 +88,7 @@ Click on a topic to get directed to that directory:
 [278 - First Bad Version](Misc/Easy/278)  
 
 #### Strings - Easy
+[13 - Roman to Integer](Strings/Easy/13)  
 [344 - Reverse String](Strings/Easy/344)  
 [1662 - Check If Two String Arrays are Equivalent](Strings/Easy/1662)  
 
@@ -109,6 +110,7 @@ Click on a topic to get directed to that directory:
 [4 - Median of Two Sorted Arrays](Arrays/Hard/4)  
 [7 - Reverse Integer](Math/Medium/7)  
 [9 - Palindrome Number](Math/Easy/9)  
+[13 - Roman to Integer](Strings/Easy/13)  
 [15 - 3Sum](Arrays/Medium/15)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
