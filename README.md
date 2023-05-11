@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 60
+# Solved Problems: 61
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -97,6 +97,7 @@ Click on a topic to get directed to that directory:
 [451 - Sort Characters By Frequency](Strings/Medium/451)  
 
 #### Trees - Easy
+[94 - Binary Tree Inorder Traversal](Trees/Easy/94)  
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [653 - Two Sum IV - Input is a BST](Trees/Easy/653)  
 
@@ -122,6 +123,7 @@ Click on a topic to get directed to that directory:
 [70 - Climbing Stairs](Math/Easy/70)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [88 - Merge Sorted Array](Arrays/Easy/88)  
+[94 - Binary Tree Inorder Traversal](Trees/Easy/94)  
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [120 - Triangle](Arrays/Medium/120)  
