@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 59
+# Solved Problems: 60
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -19,6 +19,7 @@ Click on a topic to get directed to that directory:
 [1 - Two Sum](Arrays/Easy/1)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [35 - Search Insert Position](Arrays/Easy/35)  
+[88 - Merge Sorted Array](Arrays/Easy/88)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [268 - Missing Number](Arrays/Easy/268)  
@@ -120,6 +121,7 @@ Click on a topic to get directed to that directory:
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
+[88 - Merge Sorted Array](Arrays/Easy/88)  
 [110 - Balanced Binary Tree](Trees/Easy/110)  
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [120 - Triangle](Arrays/Medium/120)  
