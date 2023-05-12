@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 63
+# Solved Problems: 64
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -36,6 +36,7 @@ Click on a topic to get directed to that directory:
 [2347 - Best Poker Hand](Arrays/Easy/2347)  
 
 #### Array - Medium
+[11 - Container With Most Water](Arrays/Medium/11)  
 [15 - 3Sum](Arrays/Medium/15)  
 [49 - Group Anagrams](Arrays/Medium/49)  
 [53 - Maximum Subarray](Arrays/Medium/53)  
@@ -114,6 +115,7 @@ Click on a topic to get directed to that directory:
 [4 - Median of Two Sorted Arrays](Arrays/Hard/4)  
 [7 - Reverse Integer](Math/Medium/7)  
 [9 - Palindrome Number](Math/Easy/9)  
+[11 - Container With Most Water](Arrays/Medium/11)  
 [13 - Roman to Integer](Strings/Easy/13)  
 [15 - 3Sum](Arrays/Medium/15)  
 [21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
