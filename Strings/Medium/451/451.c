@@ -35,9 +35,9 @@ char *frequencySort(char *s){
     int n = strlen(s);
     int freq[62] = {};
     char alphabet[62];
-    for(int i = 0; i < 26; i++) alphabet[i] = 'A'+i;
-    for(int i = 0; i < 26; i++) alphabet[i+26] = 'a'+i;
-    for(int i = 0; i < 10; i++) alphabet[i+26+26]= '0'+i;
+    for(int i = 0; i < 26; i++) alphabet[i] = 'A' + i;
+    for(int i = 0; i < 26; i++) alphabet[i+26] = 'a' + i;
+    for(int i = 0; i < 10; i++) alphabet[i+26+26]= '0' + i;
 
     for(int i = 0; i < n; i++){
         char c = s[i];

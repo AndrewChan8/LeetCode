@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 61
+# Solved Problems: 62
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -49,6 +49,7 @@ Click on a topic to get directed to that directory:
 [4 - Median of Two Sorted Arrays](Arrays/Hard/4)  
 
 #### Linked List - Easy
+[21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 
@@ -114,6 +115,7 @@ Click on a topic to get directed to that directory:
 [9 - Palindrome Number](Math/Easy/9)  
 [13 - Roman to Integer](Strings/Easy/13)  
 [15 - 3Sum](Arrays/Medium/15)  
+[21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
 [35 - Search Insert Position](Arrays/Easy/35)  
