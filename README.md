@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 64
+# Solved Problems: 65
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -57,6 +57,7 @@ Click on a topic to get directed to that directory:
 
 #### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
+[19 - Remove Nth Node From End of List](Linked_Lists/Medium/19)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
 
@@ -118,6 +119,7 @@ Click on a topic to get directed to that directory:
 [11 - Container With Most Water](Arrays/Medium/11)  
 [13 - Roman to Integer](Strings/Easy/13)  
 [15 - 3Sum](Arrays/Medium/15)  
+[19 - Remove Nth Node From End of List](Linked_Lists/Medium/19)  
 [21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
