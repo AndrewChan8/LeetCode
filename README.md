@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 65
+# Solved Problems: 66
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -68,6 +68,7 @@ Click on a topic to get directed to that directory:
 [9 - Palindrome Number](Math/Easy/9)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [258 - Add Digits](Math/Easy/258)  
+[326 - Power of Three](Math/Easy/326)  
 [342 - Power of Four](Math/Easy/342)  
 [504 - Base 7](Math/Easy/504)  
 [509 - Fibonacci Number](Math/Easy/509)  
@@ -146,6 +147,7 @@ Click on a topic to get directed to that directory:
 [278 - First Bad Version](Misc/Easy/278)  
 [283 - Move Zeroes](Arrays/Easy/283)  
 [319 - Bulb Switcher](Math/Medium/319)  
+[326 - Power of Three](Math/Easy/326)  
 [337 - House Robber III](Trees/Medium/337)  
 [342 - Power of Four](Math/Easy/342/)  
 [344 - Reverse String](Strings/Easy/344)  

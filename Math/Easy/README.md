@@ -2,6 +2,7 @@
 [9 - Palindrome Number](9)  
 [70 - Climbing Stairs](70)  
 [258 - Add Digits](258)  
+[326 - Power of Three](326)  
 [342 - Power of Four](342)  
 [504 - Base 7](504)  
 [509 - Fibonacci Number](509)  
