@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 66
+# Solved Problems: 67
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -54,6 +54,7 @@ Click on a topic to get directed to that directory:
 [21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
+[234 - Palindrome Linked List](Linked_Lists/Easy/234)  
 
 #### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
@@ -142,6 +143,7 @@ Click on a topic to get directed to that directory:
 [198 - House Robber](Arrays/Medium/198)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [213 - House Robber II](Arrays/Medium/213)  
+[234 - Palindrome Linked List](Linked_Lists/Easy/234)  
 [258 - Add Digits](Math/Easy/258)  
 [268 - Missing Number](Array/Easy/268)  
 [278 - First Bad Version](Misc/Easy/278)  
