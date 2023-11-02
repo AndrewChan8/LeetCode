@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 67
+# Solved Problems: 68
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -97,6 +97,7 @@ Click on a topic to get directed to that directory:
 #### Strings - Easy
 [13 - Roman to Integer](Strings/Easy/13)  
 [344 - Reverse String](Strings/Easy/344)  
+[415 - Add Strings](Strings/Easy/415)  
 [1662 - Check If Two String Arrays are Equivalent](Strings/Easy/1662)  
 
 #### Strings - Medium
@@ -153,6 +154,7 @@ Click on a topic to get directed to that directory:
 [337 - House Robber III](Trees/Medium/337)  
 [342 - Power of Four](Math/Easy/342/)  
 [344 - Reverse String](Strings/Easy/344)  
+[415 - Add Strings](Strings/Easy/415)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [451 - Sort Characters By Frequency](Strings/Medium/451)  
 [495 - Teemo Attacking](Arrays/Easy/495)  
