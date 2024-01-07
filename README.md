@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 69
+# Solved Problems: 70
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -41,6 +41,7 @@ Click on a topic to get directed to that directory:
 [15 - 3Sum](Arrays/Medium/15)  
 [49 - Group Anagrams](Arrays/Medium/49)  
 [53 - Maximum Subarray](Arrays/Medium/53)  
+[80 - Remove Duplicates II](Arrays/Medium/80)  
 [120 - Triangle](Arrays/Medium/120)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [189 - Rotate Array](Arrays/Medium/189)  
@@ -134,6 +135,7 @@ Click on a topic to get directed to that directory:
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [66 - Plus One](Arrays/Easy/66)  
 [70 - Climbing Stairs](Math/Easy/70)  
+[80 - Remove Duplicates II](Arrays/Medium/80)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [88 - Merge Sorted Array](Arrays/Easy/88)  
 [94 - Binary Tree Inorder Traversal](Trees/Easy/94)  
