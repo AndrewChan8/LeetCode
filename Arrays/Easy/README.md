@@ -1,6 +1,7 @@
 # Easy Array Problems
 [1 - Two Sum](1)  
 [26 - Remove Duplicates from Sorted Array](26)  
+[27 - Remove Element](27)  
 [35 - Search Insert Position](35)  
 [66 - Plus One](66)  
 [88 - Merge Sorted Array](88)  

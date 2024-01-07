@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 68
+# Solved Problems: 69
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -18,6 +18,7 @@ Click on a topic to get directed to that directory:
 #### Array - Easy
 [1 - Two Sum](Arrays/Easy/1)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
+[27 - Remove Element](Arrays/Easy/27)  
 [35 - Search Insert Position](Arrays/Easy/35)  
 [66 - Plus One](Arrays/Easy/66)  
 [88 - Merge Sorted Array](Arrays/Easy/88)  
@@ -126,6 +127,7 @@ Click on a topic to get directed to that directory:
 [21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [23 - Merge k Sorted Lists](Linked_Lists/Hard/23/)  
 [26 - Remove Duplicates from Sorted Array](Arrays/Easy/26)  
+[27 - Remove Element](Arrays/Easy/27)  
 [35 - Search Insert Position](Arrays/Easy/35)  
 [48 - Rotate Image](Matrices/Medium/48)  
 [49 - Group Anagrams](Arrays/Medium/49)  
