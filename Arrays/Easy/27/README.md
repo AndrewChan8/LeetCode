@@ -26,7 +26,7 @@ for (int i = 0; i < actualLength; i++) {
 
 If all assertions pass, then your solution will be accepted.
 
-## - Examples
+## Examples
 ```
 Input: nums = [3,2,2,3], val = 3
 Output: 2, nums = [2,2,_,_]
