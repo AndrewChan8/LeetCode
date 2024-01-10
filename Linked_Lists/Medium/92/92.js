@@ -48,8 +48,8 @@ var reverseBetween = function(head, left, right) {
     start = start.next
   }
 
-  prev = start.next
-  curr = prev.next
+  let prev = start.next
+  let curr = prev.next
 
   for(let i = 0; i < right - left; i++){
     let tempNext = curr.next
