@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 71
+# Solved Problems: 72
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -55,6 +55,7 @@ Click on a topic to get directed to that directory:
 #### Linked List - Easy
 [21 - Merge Two Sorted Lists](Linked_Lists/Easy/21)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
+[141 - Linked List Cycles](Linked_Lists/Easy/141)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [234 - Palindrome Linked List](Linked_Lists/Easy/234)  
 
@@ -145,6 +146,8 @@ Click on a topic to get directed to that directory:
 [119 - Pascal's Triangle II](Arrays/Easy/119)  
 [120 - Triangle](Arrays/Medium/120)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
+[141 - Linked List Cycles](Linked_Lists/Easy/141)  
+[206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [189 - Rotate Array](Arrays/Medium/189)  
 [198 - House Robber](Arrays/Medium/198)  
