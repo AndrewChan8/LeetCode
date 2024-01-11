@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 72
+# Solved Problems: 73
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -62,6 +62,7 @@ Click on a topic to get directed to that directory:
 #### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
 [19 - Remove Nth Node From End of List](Linked_Lists/Medium/19)  
+[82 - Remove Duplicates from Sorted List II](Linked_Lists/Medium/82)  
 [92 - Reverse Linked List II](Linked_Lists/Medium/92)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
@@ -138,6 +139,7 @@ Click on a topic to get directed to that directory:
 [66 - Plus One](Arrays/Easy/66)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [80 - Remove Duplicates II](Arrays/Medium/80)  
+[82 - Remove Duplicates from Sorted List II](Linked_Lists/Medium/82)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
 [88 - Merge Sorted Array](Arrays/Easy/88)  
 [92 - Reverse Linked List II](Linked_Lists/Medium/92)  
