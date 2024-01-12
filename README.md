@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 75
+# Solved Problems: 76
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -64,6 +64,7 @@ Click on a topic to get directed to that directory:
 [19 - Remove Nth Node From End of List](Linked_Lists/Medium/19)  
 [82 - Remove Duplicates from Sorted List II](Linked_Lists/Medium/82)  
 [92 - Reverse Linked List II](Linked_Lists/Medium/92)  
+[148 - Sort List](Linked_Lists/Medium/148)  
 [445 - Add Two Numbers II](Linked_Lists/Medium/445)  
 [707 - Design Linked List](Linked_Lists/Medium/707)  
 
@@ -153,6 +154,7 @@ Click on a topic to get directed to that directory:
 [120 - Triangle](Arrays/Medium/120)  
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [141 - Linked List Cycles](Linked_Lists/Easy/141)  
+[148 - Sort List](Linked_Lists/Medium/148)  
 [206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [189 - Rotate Array](Arrays/Medium/189)  
