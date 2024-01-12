@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 74
+# Solved Problems: 75
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -95,6 +95,7 @@ Click on a topic to get directed to that directory:
 
 #### Matrix - Medium
 [48 - Rotate Image](Matrices/Medium/48)  
+[74 - Search a 2D Matrix](Matrices/Medium/74)  
 [2545 - Sort the Students by Their Kth Score](Matrices/Medium/2545)  
 
 #### Misc - Easy
@@ -140,6 +141,7 @@ Click on a topic to get directed to that directory:
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [66 - Plus One](Arrays/Easy/66)  
 [70 - Climbing Stairs](Math/Easy/70)  
+[74 - Search a 2D Matrix](Matrices/Medium/74)  
 [80 - Remove Duplicates II](Arrays/Medium/80)  
 [82 - Remove Duplicates from Sorted List II](Linked_Lists/Medium/82)  
 [83 - Remove Duplicates from Sorted List](Linked_Lists/Easy/83)  
