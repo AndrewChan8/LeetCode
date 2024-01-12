@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 73
+# Solved Problems: 74
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -84,6 +84,7 @@ Click on a topic to get directed to that directory:
 
 #### Math - Medium
 [7 - Reverse Integer](Math/Medium/7)  
+[50 - Pow(x, n)](Math/Medium/50)  
 [319 - Bulb Switcher](Math/Medium/319)  
 [2221 - Find Triangular Sum of an Array](MAth/Medium/2221)  
 
@@ -135,6 +136,7 @@ Click on a topic to get directed to that directory:
 [35 - Search Insert Position](Arrays/Easy/35)  
 [48 - Rotate Image](Matrices/Medium/48)  
 [49 - Group Anagrams](Arrays/Medium/49)  
+[50 - Pow(x, n)](Math/Medium/50)  
 [53 - Maximum Subarray](Arrays/Medium/53)  
 [66 - Plus One](Arrays/Easy/66)  
 [70 - Climbing Stairs](Math/Easy/70)  
