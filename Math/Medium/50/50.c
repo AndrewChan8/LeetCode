@@ -1,17 +1,18 @@
 double myPow(double x, int n) {
-  if(n == 0){
+  long int m = n;
+  if(m == 0){
     return 1;
   }
 
-  if(n < 0){
+  if(m < 0){
     x = 1 / x;
-    n = -n;
+    m = -m;
   }
 
-  if(n % 2 == 0){
-    double halfPower = myPow(x, n / 2);
+  if(m % 2 == 0){
+    double halfPower = myPow(x, m / 2);
     return halfPower * halfPower;
   }else{
-    return x * myPow(x, n - 1);
+    return x * myPow(x, m - 1);
   }
 }
