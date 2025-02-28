@@ -1,7 +1,7 @@
 # LeetCode with AndrewSushi
 This is a collection of LeetCode problems done by me (AndrewSushi). Sorted by Topic, then sorted by problem. Each problem has at least one solution. Solutions are also covered in multiple languages with the primary ones being Python, C, and JS. 
 
-# Solved Problems: 76
+# Solved Problems: 77
 
 ## How To Navigate this Repository
 Here you will find multiple topics and within them are the different difficulties.  
@@ -62,6 +62,7 @@ Click on a topic to get directed to that directory:
 #### Linked List - Medium
 [2 - Add Two Numbers](Linked_Lists/Medium/2)  
 [19 - Remove Nth Node From End of List](Linked_Lists/Medium/19)  
+[61 - Rotate List](Linked_Lists/Medium/61)  
 [82 - Remove Duplicates from Sorted List II](Linked_Lists/Medium/82)  
 [92 - Reverse Linked List II](Linked_Lists/Medium/92)  
 [148 - Sort List](Linked_Lists/Medium/148)  
@@ -140,6 +141,7 @@ Click on a topic to get directed to that directory:
 [49 - Group Anagrams](Arrays/Medium/49)  
 [50 - Pow(x, n)](Math/Medium/50)  
 [53 - Maximum Subarray](Arrays/Medium/53)  
+[61 - Rotate List](Linked_Lists/Medium/61)  
 [66 - Plus One](Arrays/Easy/66)  
 [70 - Climbing Stairs](Math/Easy/70)  
 [74 - Search a 2D Matrix](Matrices/Medium/74)  

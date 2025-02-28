@@ -1,6 +1,7 @@
 # Medium Linked List Problems
 [2 - Add Two Numbers](2)  
 [19 - Remove Nth Node From End of List](19)  
+[61 - Rotate List](61)  
 [82 - Remove Duplicates from Sorted List II](82)  
 [92 - Reverse Linked List II](92)  
 [148 - Sort List](148)  
