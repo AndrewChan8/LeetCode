@@ -157,7 +157,6 @@ Click on a topic to get directed to that directory:
 [121 - Best Time to Buy and Sell Stock](Arrays/Easy/121)  
 [141 - Linked List Cycles](Linked_Lists/Easy/141)  
 [148 - Sort List](Linked_Lists/Medium/148)  
-[206 - Reverse Linked List](Linked_Lists/Easy/206)  
 [167 - Two Sum II - Input Array is Sorted](Arrays/Medium/167)  
 [189 - Rotate Array](Arrays/Medium/189)  
 [198 - House Robber](Arrays/Medium/198)  
